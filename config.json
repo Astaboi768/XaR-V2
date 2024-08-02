@@ -1,14 +1,14 @@
 {
-  "prefix": "/",
+  "prefix": ".",
   "greetNewMembers": {
         "enabled": true,
         "gifUrl": "https://tinyurl.com/2xzaydex"
   },
   "port": "8080",
-  "owner": "Samir Œ",
-  "owner_id": 1472439428,
-  "token": "",
+  "owner": "she's broken",
+  "owner_id": 7170077437,
+  "token": "7311384954:AAFcQwqFjbegaOWgMrzPGMEfP44nYO9rU-c",
   "age": "14",
-  "gender": "male",
+  "gender": "female",
   "country": "Bangladesh"
 }
